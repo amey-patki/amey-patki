@@ -5,7 +5,8 @@
 
 
 
-- 🌱 Hello I am Amey, Working as a Software Engineer from India passionate about DevOps and Cloud.
+- 🌱 Hello I am Amey, Working as a Software Engineer from India passionate about DevOps and Cloud with 2+ years of experience 🎯
+     I mostly worked with Devops tools and cloud based technologies.
 
 - 💬 Ask me about **Linux, Git, Docker, Shell-Scripting , Terraform , Kubernetes , Python , AWS Services**
 
