@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 💬 Ask me about **Linux, Git, Docker, Shell-Scripting**
+- 💬 Ask me about **Linux, Git, Docker, Shell-Scripting , Terraform , Kubernetes , Python**
 
 - 📫 How to reach me **patkiamey09@gmail.com**
 
