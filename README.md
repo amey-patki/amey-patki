@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **DevOps Tools**
+- 🌱 Hello I am Amey, Working as a Software Engineer from India passionate about DevOps and Cloud.
 
 - 💬 Ask me about **Linux, Git, Docker, Shell-Scripting , Terraform , Kubernetes , Python , AWS Services**
 
