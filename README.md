@@ -10,7 +10,7 @@ I'm passionate about the world of DevOps and automation, and I've made it my mis
 💼 What I Bring to the Table:
 - Expertise in crafting robust CI/CD pipelines.
 - Proficiency in tools like Jenkins, GitLab CI/CD, Ansible, Docker, and Kubernetes.
-- IaC (Infrastructure as Code) champion with Terraform and AWS CloudFormation.
+- Know IaC (Infrastructure as Code) with Terraform and AWS CloudFormation.
 - Enthusiastic advocate of GitOps principles.
 - Strong scripting skills in Shell , Python, and more.
 - Deep knowledge of monitoring and logging with tools like Prometheus and Grafana.
