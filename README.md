@@ -4,15 +4,15 @@
 👋 Hey there, I'm Amey Patki, your friendly DevOps wizard from India! 🇮🇳
 
 🚀 About Me:
-I'm passionate about the world of DevOps and automation, and I've made it my mission to enhance my devops skills.I am having 2+years of experience as a Software Engineer. When not immersed in the world of tech, you'll find me exploring new places, indulging in culinary adventures, and capturing moments through my lens.
+I'm passionate about the world of DevOps and automation, and I've made it my mission to enhance my devops skills.I am having 2+years of experience as a Software Engineer. When not immersed in the world of tech, you'll find me exploring new places, indulging in culinary adventures, i love to play cricket and listening songs.
 
 
 💼 What I Bring to the Table:
 - Expertise in crafting robust CI/CD pipelines.
-- Proficiency in tools like Jenkins, GitLab CI/CD, Ansible, Docker, and Kubernetes.
+- Proficiency in tools like Jenkins, CI/CD, Ansible, Docker, and Kubernetes.
 - Know IaC (Infrastructure as Code) with Terraform and AWS CloudFormation.
 - Strong scripting skills in Shell , Python, and more.
-- Deep knowledge of monitoring and logging with tools like Prometheus and Grafana.
+- Knowledge of monitoring and logging with tools like Prometheus and Grafana.
 
 🌟 GitHub Repositories:
 Browse my projects to discover automation scripts, DevOps best practices, and tools I've crafted to simplify deployment and operations. Let's collaborate on open-source initiatives!
