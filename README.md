@@ -4,7 +4,7 @@
 👋 Hey there, I'm Amey Patki, your friendly DevOps wizard from India! 🇮🇳
 
 🚀 About Me:
-I'm passionate about the world of DevOps and automation, and I've made it my mission to enhance my devops skills.I am having 3+ years of experience as a Software Engineer. When not immersed in the world of tech, you'll find me exploring new places, indulging in culinary adventures, i love to play cricket and listening songs.
+I'm passionate about the world of DevOps and automation, and I've made it my mission to enhance my devops skills.I am having 4 years of experience as a Software Engineer. When not immersed in the world of tech, you'll find me exploring new places, indulging in culinary adventures, i love to play cricket and listening songs.
 
 
 💼 What I Bring to the Table:
